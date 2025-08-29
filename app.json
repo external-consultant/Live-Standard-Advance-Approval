@@ -1,0 +1,115 @@
+{
+  "id": "320b1018-6c83-4a0b-bca8-6059a96fb871",
+  "name": "Standard Approval Extended",
+  "publisher": "ISPL",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "publisher": "Microsoft",
+      "name": "India Gate Entry",
+      "version": "20.0.0.0"
+    },
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "publisher": "Microsoft",
+      "name": "India GST",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "publisher": "Microsoft",
+      "name": "India Reports",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "publisher": "Microsoft",
+      "name": "India Tax Base",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "publisher": "Microsoft",
+      "name": "India TCS",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "publisher": "Microsoft",
+      "name": "India TDS",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "07729019-da51-4639-a987-3db38ccc62c7",
+      "publisher": "Microsoft",
+      "name": "India Charge Group",
+      "version": "21.0.0.0"
+    }
+    ,
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "publisher": "Microsoft",
+      "name": "India Voucher Interface",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+      "publisher": "Microsoft",
+      "name": "QR Generator",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "publisher": "Microsoft",
+      "name": "Tax Engine",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+      "publisher": "Microsoft",
+      "name": "Fixed Asset Depreciation for India",
+      "version": "20.0.0.0"
+    }      
+    ,
+    {
+      "id": "1d294689-c045-4c5a-a2c2-4026810571b2",
+      "publisher": "ISPL",
+      "name": "Kemipex Development_TableOnly",
+      "version": "1.0.0.0"   
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 80930,
+      "to": 81029
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
